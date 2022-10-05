@@ -1,0 +1,30 @@
+h1 {
+color: purple;
+font-family: helvetica;
+border: 5px solid yellow;
+padding: 30px;
+}
+
+p {
+color: green;
+background-color: white;
+
+}
+
+h2 {
+color: blue;
+font-family: helvetica;
+
+}
+
+body{
+background-color: pink;
+
+}
+
+img {
+border: 5px solid fuchsia;
+width:15%;
+height:25%;
+margin-left: 100px;
+}
